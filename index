@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UFT-8">
+        <title>ZONER</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <!--El menú-->
+        <header class="header"> 
+            <div class="container logo-nav-container">  <!--per a que el menu es vegui un al contat de l'altre-->
+                <img src="Fotos/Logo fenix.png"
+               width="70"
+               height="70">
+               <nav class="navigation">
+                   <ul>
+                   <li><a href="Inici.html">Inicio</a></li>
+                   <li><a href="Teclados.html">Teclados</a></li>
+                   <li><a href="Sillas.html">Sillas</a></li>
+                   <li><a href="Ratones.html">Ratones</a></li>
+                   <li><a href="Monitores.html">Monitores</a></li>
+                </ul>
+               </nav>
+            </div>
+        </header>
+
+        <main class="main">
+                <!--Informació de la marca Zoner-->
+            <div class="container">
+
+                <H1>Zoner </H1>
+                <p>Somos una empresa de productos gaming como alfombrillas, sillas, ratones, teclados y otras cosas relacionadas para gente que pasa mucho tiempo jugando o en los ordenadores y quiere un despacho con calidad y comodidad para él.</p>
+                <div class="col-sm-6">
+                    <img class="container logo-nav-container" src="Fotos/Monitor.png" alt="">
+                </div>
+                <h1>Asociaciones Clave</h1>
+                <p>Para llevar a cabo nuestras ventas sería necesario la conexión con tiendas físicas para los clientes que no suelen comprar online y puedan adquirir nuestros productos en la tienda que tenga más cerca, además nos asociaríamos con empresas de transporte para que hagan llegar el producto a nuestros clientes.
+                </p>
+                <h1>Relación con los Clientes</h1>
+                <p>uestra empresa se encargará de mantener una escucha activa para mejorar diferentes aspectos de la empresa, además con cada compra digital dentro de la caja vendrá incluida una piruleta sabor a fresa y con la forma de un corazón para dar las gracias a los clientes por haber confiado en nosotros.</p>
+                <h1>Actividades Clave</h1>
+                <p>Se harán torneos de los videojuegos más populares actualmente, como CSGO, Fortnite, Valorant, COD, etc. Donde podrá participar cualquier persona que tenga dicho juego. Los premios de los torneos serán productos que ofrece nuestro catálogo, estos se repartirán equitativamente a los tres primeros lugares de cada sección.</p>
+                <h1>Objetivos</h1>
+                <p>Llegar a ser reconocidos a nivel mundial, tener tiendas físicas alrededor del mundo, aumentar la variedad de productos, colaborar con empresas de videojuegos y con personajes públicos y patrocinar eventos como torneos de videojuegos.
+                    Todos estos objetivos nos aportarían más ventas y más reconocimiento, además algunos objetivos también aportaran beneficios a nuestros clientes ya que por ejemplo con los torneos, damos visibilidad a los ganadores.</p>
+            </div>
+
+        </main>
+        <!--Peu de pàgina-->
+        <footer CLASS="footer">
+            <div class="container">
+                <p>Stay in the zone.</p>
+                <p>Pol Gonzalez y Sergi Martinez</p>
+                <p>contacans: contacte@zoner.com</p>
+            </div>
+        </footer>
+    </body>
+</html>
